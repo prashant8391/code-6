@@ -1,4 +1,4 @@
-# code-6
+# Code for linked list deletion using a given position
 #Creating node class
 
 class node:
